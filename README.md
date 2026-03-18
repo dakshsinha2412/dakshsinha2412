@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Open+to+internship+opportunities;Let%27s+connect!;git+push+origin+main;echo+%22hire+me%22;Always+learning%2C+always+building;Turning+ideas+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Open+to+internship+opportunities;Let%27s+connect!;git+push+origin+main;echo+%22hire+me+%F0%9F%9A%80%22;Always+learning%2C+always+building;Turning+ideas+into+code" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,14 +41,14 @@ I have a strong foundation in programming and core computer science concepts, al
 
 **Core Concepts:**
 
-![OOP](https://img.shields.io/badge/OOP-0D1117?style=flat&logoColor=A5A0F5&labelColor=0D1117&color=211A3D)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-0D1117?style=flat&logoColor=A5A0F5&labelColor=0D1117&color=211A3D)
+![OOP](https://img.shields.io/badge/OOP-211A3D?style=flat&logoColor=A5A0F5&labelColor=211A3D)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-211A3D?style=flat&logoColor=A5A0F5&labelColor=211A3D)
 
 **Exploring:**
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat&logo=openai&logoColor=3FB950&labelColor=0D1117)
-![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat&logoColor=3FB950&labelColor=0D1117&color=0F2B1A)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat&logoColor=3FB950&labelColor=0D1117&color=0F2B1A)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-0F2B1A?style=flat&logo=openai&logoColor=3FB950&labelColor=0F2B1A)
+![NLP](https://img.shields.io/badge/NLP-0F2B1A?style=flat&logoColor=3FB950&labelColor=0F2B1A)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F2B1A?style=flat&logoColor=3FB950&labelColor=0F2B1A)
 
 ---
 
@@ -56,6 +56,7 @@ I have a strong foundation in programming and core computer science concepts, al
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dakshsinha2412&show_icons=true&theme=github_dark&hide_border=true&border_radius=6&count_private=true" height="165" alt="GitHub Stats" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshsinha2412&layout=compact&theme=github_dark&hide_border=true&border_radius=6" height="165" alt="Top Languages" />
 </p>
 
@@ -85,8 +86,8 @@ Worked on HR data collection, LinkedIn outreach, and coordination to support pla
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="/cdn-cgi/l/email-protection#86e2e7edf5eef5efe8eee7b4b2b7b4c6e1ebe7efeaa8e5e9eb">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
+  <a href="mailto:dakshsinha2412@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=flat&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/dakshsinha2412/" target="_blank">
@@ -101,4 +102,5 @@ Worked on HR data collection, LinkedIn outreach, and coordination to support pla
 ---
 
 <p align="center">
-  <i>"Build with purpose, learn contin
+  <i>"Build with purpose, learn continuously, and grow through experience."</i>
+</p>
