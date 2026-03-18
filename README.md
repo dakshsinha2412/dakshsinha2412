@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Open+to+internship+opportunities;Building+with+HTML%2C+CSS+%26+JS;Exploring+AI+%26+NLP;git+push+origin+main;echo+%22let%27s+connect!%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Open+to+internship+opportunities;Let%27s+connect!;git+push+origin+main;echo+%22hire+me%22;Always+learning%2C+always+building;Turning+ideas+into+code" alt="Typing SVG" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ Worked on HR data collection, LinkedIn outreach, and coordination to support pla
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:dakshsinha2412@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#86e2e7edf5eef5efe8eee7b4b2b7b4c6e1ebe7efeaa8e5e9eb">
     <img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
   </a>
   &nbsp;
@@ -101,5 +101,4 @@ Worked on HR data collection, LinkedIn outreach, and coordination to support pla
 ---
 
 <p align="center">
-  <i>"Build with purpose, learn continuously, and grow through experience."</i>
-</p>
+  <i>"Build with purpose, learn contin
